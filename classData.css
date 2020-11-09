@@ -1,0 +1,4 @@
+.table{font-size: 30px;
+font-family:monospace}
+table {border-collapse: collapse;}
+table, th, td{border: 2.5px solid purple;} 
